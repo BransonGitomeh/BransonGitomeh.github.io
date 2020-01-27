@@ -1,0 +1,3 @@
+[submodule "site-generator"]
+	path = site-generator
+	url = git@github.com:BransonGitomeh/site-generator.git
