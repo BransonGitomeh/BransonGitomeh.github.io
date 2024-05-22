@@ -1,0 +1,3 @@
+window.lang = {
+    greeting : "Hello"
+};
